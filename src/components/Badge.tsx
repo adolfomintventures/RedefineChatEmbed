@@ -47,7 +47,7 @@ export const Badge = (props: Props) => {
       ⚡️ by
       <a
         ref={liteBadge}
-        href={'https://fana.ai.com'}
+        href={'https://www.fana.ai.com'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
